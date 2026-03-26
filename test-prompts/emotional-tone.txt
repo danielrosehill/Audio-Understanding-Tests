@@ -1,1 +1,1 @@
-Analyze the emotional tone of this voice sample throughout its duration. What is the speaker's baseline emotional state? Are there shifts in mood — moments of frustration, humor, fatigue, anxiety, warmth, or enthusiasm? Where do these shifts occur and what triggers them? How does the speaker's energy level change over the course of the recording? Can you detect signs of stress, sleep deprivation, or physical fatigue from the voice alone? Describe the overall emotional arc of the recording.
+Detect the overall emotional tone of the speaker

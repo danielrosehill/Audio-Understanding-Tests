@@ -1,0 +1,20 @@
+{
+  "name": "Audio Understanding Model Evaluation",
+  "description": "Systematic evaluation of audio multimodal model capabilities using a voice sample and structured test prompts covering speaker analysis, emotion detection, forensic audio, demographics, and more.",
+  "created": "2026-03-26",
+  "author": "Daniel Rosehill",
+  "assisted_by": "Claude (Opus 4.6)",
+  "model_under_test": "gemini-3.1-flash-lite-preview",
+  "audio_sample": {
+    "file": "2026-03-26/26_03_2026_16_08.flac",
+    "short_sample": "2026-03-26/short-sample.flac",
+    "format": "FLAC mono 24kHz",
+    "duration": "20m 54s",
+    "transcript": "transcript.md",
+    "transcript_source": "AssemblyAI",
+    "transcript_confidence": 0.974
+  },
+  "prompt_index": "test-prompts/prompt-index.json",
+  "outputs_dir": "outputs/",
+  "runner_script": "run-prompts.py"
+}

@@ -1,1 +1,1 @@
-Create a detailed voice profile for this speaker. Estimate their fundamental frequency (pitch), voice type (bass, baritone, tenor), and vocal quality (clear, breathy, nasal, resonant). Describe the timbre — is the voice warm, bright, thin, full? How would you characterize their vocal energy and projection? Does the speaker sound like they have any vocal training, or is this a natural untrained speaking voice? If you were casting this voice for narration, audiobook, or voiceover work, what genres or styles would it suit?
+Build an overall voice profile of the speaker
